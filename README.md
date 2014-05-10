@@ -46,4 +46,4 @@ P|Mouse|Cartoons|Jan 01 00:00:00 CST 1650|masterpiece|21|23|oil|other|Dec 31 00:
 Q|Coxie|Cards|Jan 01 00:00:00 CST 1900|masterpiece|32|67|oil|portrait|Dec 31 00:00:00 CST 2010|8000|
 R|Roxie|Mask|Jan 01 00:00:00 CST 1300|masterpiece|43|67|other|other|Dec 31 00:00:00 CST 2013|1000|
 S|Game|Movies|Jan 01 00:00:00 CST 1300|masterpiece|22|44|oil|other|Dec 31 00:00:00 CST 2010|8000|
-T|Time|Ice|Jan 01 00:00:00 CST 1300|masterpiece|22|21|other|portrait|Dec 31 00:00:00 CST 2013|8000|
+T|Time|Ice|Jan 01 00:00:00 CST 1300|masterpiece|22|21|other|portrait|Dec 31 00:00:00 CST 2013|8000| 
