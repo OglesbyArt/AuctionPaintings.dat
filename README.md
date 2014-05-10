@@ -29,3 +29,21 @@ Francois|Boucher|Venus Consoling Love|1/1/1751|8/19/2000|560800|oil|
 Leonardo|da Vinci|Mona Lisa|1/1/1503|6/1/1902|1100000|oil|
 Tamara de|Lempicka|Kizette in Pink|1/1/1926|9/14/2003|140300|oil|
 Domenico|Ghirlandaio|Portrait of Giovanna Tornabuoni|1/1/1488|5/4/1967|oil|
+C|Har|Mother|Jan 01 00:00:00 CST 1900|masterpiece|45|11|oil|other|Dec 31 00:00:00 CST 2013|1000|
+D|Hay|Father|Jan 01 00:00:00 CST 1900|masterpiece|44|23|other|other|Dec 31 00:00:00 CST 2013|8000|
+E|Jay|Silk Road|Jan 01 00:00:00 CST 1900|masterpiece|45|33|oil|portrait|Dec 31 00:00:00 CST 2010|8000|
+F|Power|Water Bottle|Jan 01 00:00:00 CST 1900|masterpiece|66|44|other|other|Dec 31 00:00:00 CST 2013|8000|
+G|Aide|Almonds|Jan 01 00:00:00 CST 1900|masterpiece|34|32|oil|portrait|Dec 31 00:00:00 CST 2010|1000|
+H|Litel|Coffee Cup|Jan 01 00:00:00 CST 1900|masterpiece|23|33|other|other|Dec 31 00:00:00 CST 2010|8000|
+I|Jaie|Helmet|Jan 01 00:00:00 CST 1650|other|10|21|oil|portrait|Dec 31 00:00:00 CST 2010|1000|
+J|Nelson|Hockey Games|Jan 01 00:00:00 CST 1900|other|22|54|other|other|Dec 31 00:00:00 CST 2010|1000|
+K|Jeory|Tennis Matches|Jan 01 00:00:00 CST 1900|masterpiece|20|33|other|portrait|Dec 31 00:00:00 CST 2013|8000|
+L|Jaieke|Checking|Jan 01 00:00:00 CST 1900|masterpiece|34|21|other|other|Dec 31 00:00:00 CST 2010|1000|
+M|Layson|Glasses|Jan 01 00:00:00 CST 1650|other|66|32|oil|other|Dec 31 00:00:00 CST 2010|8000|
+N|Micky|Shirts and Shorts|Jan 01 00:00:00 CST 1900|masterpiece|67|33|other|portrait|Dec 31 00:00:00 CST 2010|9000|
+O|Nicky|Figure it Out|Jan 01 00:00:00 CST 1900|masterpiece|32|21|other|other|Dec 31 00:00:00 CST 2010|8000|
+P|Mouse|Cartoons|Jan 01 00:00:00 CST 1650|masterpiece|21|23|oil|other|Dec 31 00:00:00 CST 2013|1000|
+Q|Coxie|Cards|Jan 01 00:00:00 CST 1900|masterpiece|32|67|oil|portrait|Dec 31 00:00:00 CST 2010|8000|
+R|Roxie|Mask|Jan 01 00:00:00 CST 1300|masterpiece|43|67|other|other|Dec 31 00:00:00 CST 2013|1000|
+S|Game|Movies|Jan 01 00:00:00 CST 1300|masterpiece|22|44|oil|other|Dec 31 00:00:00 CST 2010|8000|
+T|Time|Ice|Jan 01 00:00:00 CST 1300|masterpiece|22|21|other|portrait|Dec 31 00:00:00 CST 2013|8000|
