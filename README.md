@@ -71,3 +71,4 @@ Q|Coxie|Cards|Jan 01 00:00:00 CST 1900|masterpiece|32|67|oil|portrait|Dec 31 00:
 R|Roxie|Mask|Jan 01 00:00:00 CST 1300|masterpiece|43|67|other|other|Dec 31 00:00:00 CST 2013|1000|
 S|Game|Movies|Jan 01 00:00:00 CST 1300|masterpiece|22|44|oil|other|Dec 31 00:00:00 CST 2010|8000|
 T|Time|Ice|Jan 01 00:00:00 CST 1300|masterpiece|22|21|other|other|Dec 31 00:00:00 CST 2013|8000|
+hank|hally|hardwood|Mon Sep 12 00:00:00 CST 1222|masterpiece|6.0|6.0|oil|other|Mon Sep 12 00:00:00 CST 1222|9.0||
